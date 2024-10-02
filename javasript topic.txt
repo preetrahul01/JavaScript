@@ -1,0 +1,10 @@
+js variable
+js operatord
+Data Types
+function
+Events( click, change )
+Number Method
+if else
+loop ( For and for in)
+maps
+JS dom
